@@ -1,0 +1,7 @@
+{
+  "name": "AniWatch",
+  "description": "Premium AI-powered anime discovery platform. Find your next favorite series with AI-driven insights and live search.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
